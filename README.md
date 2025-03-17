@@ -132,7 +132,7 @@ The `knowledge_graph_construction.py` module constructs knowledge graphs for met
 - pgmpy
 - pyvis
 
-# Metabolic Syndrome Risk Calculator
+## Metabolic Syndrome Risk Calculator
 
 This project is a React-based application that calculates the risk of metabolic syndrome based on clinical measurements. It provides a user-friendly interface to input patient data, assess risk, and visualize results.
 
